@@ -2,7 +2,7 @@
 
 Considerati gli sviluppi del software EquatIO e considerata l'esperienza di SpeechMatE e del lavoro di trascrizione di formule matematiche.
 
-- Equation
+- EquatIO
   - non funziona per la lingua italiana
   - non fornisce supporto per navigazione ed editing semantico o svolgimento di un'espressione matematica
 
